@@ -1,0 +1,8 @@
+1. Host
+Host are any devices which sends and receive traffics. Computer, laptop, phones, printers, server, cloud servers are can be consider as host.
+All the IOT devices like tv, thermomiters, speakers, smartwhatches which are also categories as host because thy can send and receive traffics.
+
+
+2. Internet Protocal Address (IP Address)
+IP address are the identity of each host. To send files or establish connection to each host device they have unique address so all the files are transfer easylly to each other.
+IP address are 32 bits (bis is 0 and 1 which can octet as four 0-255). 
