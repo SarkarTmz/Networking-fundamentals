@@ -5,4 +5,7 @@ All the IOT devices like tv, thermomiters, speakers, smartwhatches which are als
 
 2. Internet Protocal Address (IP Address)
 IP address are the identity of each host. To send files or establish connection to each host device they have unique address so all the files are transfer easylly to each other.
-IP address are 32 bits (bis is 0 and 1 which can octet as four 0-255). 
+IP address are 32 bits (bis is 0 and 1 which can octet as four 0-255
+). 
+
+3. Repeater
