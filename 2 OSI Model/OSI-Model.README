@@ -6,10 +6,21 @@ The seven layers of the OSI model, from the lowest to the highest, are:
 1. Physical Layer: This layer deals with the physical connection between devices. It defines the hardware elements such as cables, switches, and network interface cards, and the way bits are transmitted over a physical medium.
 
 2. Data Link Layer: This layer is responsible for creating a reliable link between two directly connected nodes. It handles issues such as framing, flow control, and error detection.
+Interacts with the wire , Addressing scheme - mac address.
 
-3. Network Layer: The network layer is responsible for routing packets between different networks, determining the best path for data to travel from the source to the destination across multiple devices and subnets.
+3. Network Layer: The network layer is responsible for routing packets between different networks, determining the best path for data to travel from the source to the destination across multiple devices and subnets.Addressing scheme - IP address.
 
-4. Transport Layer: This layer ensures end-to-end communication, providing error detection, correction, and flow control. It manages the reliable delivery of data between two devices, even if they are not directly connected.
+4. Transport Layer: This layer ensures end-to-end communication, providing error detection, correction, and flow control. It manages the reliable delivery of data between two devices, even if they are not directly connected. Addressing scheme - Ports : TCP and UDP
+Here server listen for requests to pre-defined ports where client select ramdom port for each connection
+
+        IP Add.     Ports 
+    SRC 1.1.1.1 :   9999 (Random selected ports)
+    DST 3.3.3.3 :   80(Specially defined port of server)
+
+    <p align="center">
+  <img src="https://res.cloudinary.com/dhul7jt2w/image/upload/v1706985244/Networking/Transport%20layer.png" alt="Sonam Tamang">
+</p>
+
 
 5. Session Layer: The session layer establishes, maintains, and terminates communication sessions between applications. It manages the dialogue control and synchronization between two devices.
 
