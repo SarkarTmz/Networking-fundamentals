@@ -11,10 +11,9 @@
 ##### 3. Network Layer: The network layer is responsible for routing packets between different networks, determining the best path for data to travel from the source to the destination across multiple devices and subnets.Addressing scheme - IP address.
 
 ##### 4. Transport Layer: This layer ensures end-to-end communication, providing error detection, correction, and flow control. It manages the reliable delivery of data between two devices, even if they are not directly connected. Addressing scheme - Ports : TCP and UDP
-##### Here server listen for requests to pre-defined ports where client select ramdom port for each connection
+##### Here server listen for requests to pre-defined ports where client select ramdom port for each connection.
 
   <img src="https://res.cloudinary.com/dhul7jt2w/image/upload/v1706985244/Networking/Transport%20layer.png" alt="Sonam Tamang">
-
 
 
 ##### 5. Session Layer: The session layer establishes, maintains, and terminates communication sessions between applications. It manages the dialogue control and synchronization between two devices.
