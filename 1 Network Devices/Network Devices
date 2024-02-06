@@ -17,3 +17,8 @@ In networking, a hub is a basic device that connects multiple devices in a local
 6. Switch
 A switch is a networking device that connects devices within a local area network (LAN). Operating at the data link layer, it intelligently forwards data only to the specific device it is intended for, improving efficiency and reducing network congestion compared to older technologies like hubs.
 7. Router
+A router is a network device that forwards data packets between computer networks.
+It connects multiple devices to the internet, managing their communication and ensuring data reaches the correct destination.
+
+A router connects different networks, directing data between them.
+A switch connects devices within a single network, facilitating communication between them by forwarding data based on MAC addresses.
