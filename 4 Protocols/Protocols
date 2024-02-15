@@ -2,3 +2,62 @@ What is protocols
 Protocols refer to a set of rules or standards that define how data is transmitted over a network. They ensure that devices can communicate and understand each other in a consistent manner. Protocols are crucial for enabling the exchange of information between different devices, systems, or applications.
 
 There are various types of protocols used in networking, each serving a specific purpose. Here are some common types of protocols:
+
+<!-- ************************************************************************************************************************ -->
+
+1. Communication Protocols:
+
+* TCP/IP (Transmission Control Protocol/Internet Protocol): The fundamental suite of protocols for the internet. It provides reliable, connection-oriented communication between devices.
+
+* UDP (User Datagram Protocol): A connectionless protocol that provides faster, but less reliable, communication compared to TCP.
+
+<!-- ************************************************************************************************************************ -->
+
+2. Application Layer Protocols:
+
+* HTTP (Hypertext Transfer Protocol): Used for transferring hypertext documents on the World Wide Web.
+
+* HTTPS (Hypertext Transfer Protocol Secure): A secure version of HTTP that uses encryption (SSL/TLS) to ensure secure data transfer.
+
+* FTP (File Transfer Protocol): Used for transferring files between computers on a network.
+
+* SMTP (Simple Mail Transfer Protocol): Used for sending email messages between servers.
+
+* POP3 (Post Office Protocol version 3): A protocol used by email clients to retrieve messages from a mail server.
+
+<!-- ************************************************************************************************************************ -->A
+
+3. Transport Layer Protocols:
+
+* TCP (Transmission Control Protocol): Ensures reliable and ordered delivery of data between devices.
+
+* UDP (User Datagram Protocol): Provides a lightweight, connectionless transport layer protocol.
+
+<!-- ************************************************************************************************************************ -->
+
+4. Network Layer Protocols:
+
+* IP (Internet Protocol): Responsible for addressing and routing packets of data so that they can travel across networks and arrive at the correct destination.
+
+* ICMP (Internet Control Message Protocol): Used for error reporting and diagnostics.
+
+<!-- ************************************************************************************************************************ -->
+
+5. Link Layer Protocols:
+
+* Ethernet: A widely used protocol for wired local networks.
+* Wi-Fi (IEEE 802.11): A set of protocols for wireless local area networking.
+
+<!-- ************************************************************************************************************************ -->
+
+6. Security Protocols:
+
+* SSL/TLS (Secure Sockets Layer/Transport Layer Security): Protocols that provide secure communication over a computer network, commonly used for securing web browsing (HTTPS).
+
+<!-- ************************************************************************************************************************ -->
+
+These protocols ensure interoperability and data integrity across different devices and networks. The use of standardized protocols allows diverse systems and applications to communicate effectively, contributing to the seamless functioning of the internet and computer networks.
+
+
+
+
