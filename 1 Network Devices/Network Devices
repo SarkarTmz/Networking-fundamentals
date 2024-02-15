@@ -1,7 +1,9 @@
+=====================================================================
 1. Host
 Host are any devices which sends and receive traffics. Computer, laptop, phones, printers, server, cloud servers are can be consider as host.
 All the IOT devices like tv, thermomiters, speakers, smartwhatches which are also categories as host because thy can send and receive traffics.
 
+=====================================================================
 
 2. Internet Protocal Address (IP Address)
 IP address are the identity of each host. To send files or establish connection to each host device they have unique address so all the files are transfer easylly to each other.
@@ -10,15 +12,26 @@ IP address are 32 bits (bis is 0 and 1 which can octet as four 0-255
 
 There is two types of IP address which are tatic ip address and dynamic ip address. When we coneected to a network it defaulty assign ip address which is change when we disconnect and reconnect to the internet what is called dynammic ip address. Almost in the ftth network, isp provide users to dynamic ip address which frequently change when we disconnect and reconnect to internet. But in the static ip there is no any changes in ip address when we disconnect and connect to internet. thic kind of service is mostly use in office and IT sectors where they want fix ip address. The will pay extra for this service for IPS.
 
+=====================================================================
 
 3. Repeater
 Repeater is use to boost wireleass signal of internet.
+
+=====================================================================
+
 4. Hub
 In networking, a hub is a basic device that connects multiple devices in a local area network (LAN). It operates at the physical layer and broadcasts data to all connected devices, leading to potential congestion. Hubs have become obsolete, and switches, which operate at a higher layer (data link layer), are now more commonly used for efficient and targeted data transmission.
+
+=====================================================================
+
 5. Bridge
+
+=====================================================================
 
 6. Switch
 A switch is a networking device that connects devices within a local area network (LAN). Operating at the data link layer, it intelligently forwards data only to the specific device it is intended for, improving efficiency and reducing network congestion compared to older technologies like hubs.
+
+=====================================================================
 
 7. Router
 Router are connnetcted to a network. it is known for routing. it has both ip and mac of it.
@@ -27,3 +40,5 @@ It connects multiple devices to the internet, managing their communication and e
 
 A router connects different networks, directing data between them.
 A switch connects devices within a single network, facilitating communication between them by forwarding data based on MAC addresses.
+
+=====================================================================
